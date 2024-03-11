@@ -1,0 +1,12 @@
+.country{
+    border: 1px solid violet;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    width: 300px;
+    text-align: center;
+}
+
+.country img{
+    width: 300px;
+}
